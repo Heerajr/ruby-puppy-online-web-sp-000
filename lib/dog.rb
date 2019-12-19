@@ -23,6 +23,5 @@ class Dog
 
   def self.print_all
     @@all.each
-    end
   end
 end
